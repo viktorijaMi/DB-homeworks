@@ -1,0 +1,186 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH0117.dir\doc.xml"  gs2:docOID="HASH011757d8109e97edd3687673" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH011757d8109e97edd3687673" gs2:mode="add">
+
+
+
+
+&lt;div class=WordSection1&gt;
+
+
+
+&lt;p class=MsoTitle align=center style='text-align:center'&gt;&lt;span lang=MK&gt;Лабораториска
+
+вежба 1&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoSubtitle&gt;&lt;span lang=MK&gt;Студент:
+
+Викторија
+
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Промена
+
+при
+
+анимацијата
+
+кога даден
+
+играч ќе ја
+
+заврши
+
+играта. Му се
+
+појавува
+
+слика со &lt;/span&gt;“Well Done” &lt;span
+
+lang=MK&gt;текст, која
+
+кружи
+
+одреден
+
+период.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='margin-left:.5in;text-align:center'&gt;&lt;span
+
+lang=MK&gt;&lt;img width=384 height=307 id=&quot;Picture 1&quot;
+
+src=&quot;_httpdocimg_/image001.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH011757d8109e97edd3687673.1" gs2:mode="add">
+
+
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Додавање
+
+на нова форма
+
+&lt;/span&gt;PLAY_BUTTON. &lt;span lang=MK&gt;Најпрво
+
+истата се
+
+дефинира:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+
+margin-left:.5in;line-height:normal;background:white'&gt;&lt;span style='font-size:
+
+10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;PLAY_BUTTON = &lt;/span&gt;&lt;b&gt;&lt;span
+
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:teal'&gt;'play_button' &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span
+
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#8C8C8C'&gt;# CHANGE:
+
+added new shape, defining its name&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+
+margin-left:.5in;line-height:normal;background:white'&gt;&lt;span style='font-size:
+
+10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Потоа
+
+се црта со
+
+помош на &lt;/span&gt;polygon&lt;span lang=MK&gt;:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;pre style='margin-left:40.5pt;background:white'&gt;&lt;span style='color:#0033B3'&gt;elif &lt;/span&gt;&lt;span
+
+style='color:#080808'&gt;shape == PLAY_BUTTON:&lt;br&gt;
+
+    pygame.draw.polygon(DISPLAYSURF, GREEN, (&lt;br&gt;
+
+    (left + half - quarter, top), (left + BOXSIZE - &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;1&lt;/span&gt;&lt;span style='color:#080808'&gt;, top + half), (left + half - quarter, top + BOXSIZE - &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;1&lt;/span&gt;&lt;span style='color:#080808'&gt;),&lt;br&gt;
+
+    (left + quarter, top + half)))&lt;/span&gt;&lt;/pre&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Крајниот
+
+резултат е
+
+уште една
+
+форма во играта:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;img width=483 height=384
+
+id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;
+
+alt=&quot;A screenshot of a computer
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+
+</Doc>

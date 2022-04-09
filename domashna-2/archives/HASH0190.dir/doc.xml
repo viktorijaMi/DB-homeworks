@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514894/Lab5_Tetromino_181070.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514894/Lab5_Tetromino_181070.html</Metadata>
+    <Metadata name="Title">Lab5_Tetromino_181070</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Lab5_Tetromino_181070.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1649514894\Lab5_Tetromino_181070.html</Metadata>
+    <Metadata name="OrigSource">Lab5_Tetromino_181070.html</Metadata>
+    <Metadata name="Source">Lab5_Tetromino_181070.pdf</Metadata>
+    <Metadata name="SourceFile">Lab5_Tetromino_181070.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">379316</Metadata>
+    <Metadata name="FilenameRoot">Lab5_Tetromino_181070</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+    <Metadata name="dc.Date">13/12/2021</Metadata>
+    <Metadata name="dc.Title">Laboratory exercise 5 - Tetromino PDF</Metadata>
+    <Metadata name="Identifier">HASH019007d54708b5f288228eeb</Metadata>
+    <Metadata name="lastmodified">1649510352</Metadata>
+    <Metadata name="lastmodifieddate">20220409</Metadata>
+    <Metadata name="oailastmodified">1649514896</Metadata>
+    <Metadata name="oailastmodifieddate">20220409</Metadata>
+    <Metadata name="assocfilepath">HASH0190.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page3.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page4.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:189px; top:74px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(90,90,90,1);&quot;&gt;Лабораториска вежба &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:13px;vertical-align:baseline;color:rgba(90,90,90,1);&quot;&gt;5: Tetromino&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:179px; top:101px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(90,90,90,1);&quot;&gt;Студент: Викторија Мијалчева 181070&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:154px;&quot;&gt;&lt;span class=&quot;p1f13&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;1. &lt;/span&gt;&lt;span class=&quot;p1f17&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Зголемете ја димензијата на рамката на 20x40 полиња.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:197px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;За да го задоволиме ова потребно е да ги промениме следниве глобални променливи&lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:237px; top:219px;&quot;&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;BOARDWIDTH = &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;20 &lt;/span&gt;&lt;span class=&quot;p1f35&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;#CHANGE&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:234px; top:230px;&quot;&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;BOARDHEIGHT = &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;40 &lt;/span&gt;&lt;span class=&quot;p1f35&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;#CHANGE&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:253px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;За да овозможиме поубав приказ на корисникот со менување на овие променливи потребно е&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:268px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;менување и на следниве две променливи:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:210px; top:290px;&quot;&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;WINDOWHEIGHT = &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;480 &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;+ &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;300 &lt;/span&gt;&lt;span class=&quot;p1f35&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;#CHANGE&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:213px; top:301px;&quot;&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;WINDOWWIDTH = &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;640 &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;+ &lt;/span&gt;&lt;span class=&quot;p1f32&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;300 &lt;/span&gt;&lt;span class=&quot;p1f35&quot; style=&quot;font-size:9px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;#CHANGE&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:313px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Излезниот екран по направените промени е следниот:&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page2&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f118 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f119 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f120 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f121 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f122 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f123 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f124 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f125 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f126 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f127 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f128 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f129 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f130 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f131 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f132 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f133 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f134 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f135 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f136 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f137 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f138 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f139 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f140 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f141 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f142 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f143 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f144 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f145 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f146 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f147 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f148 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f149 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f150 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f151 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f152 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f153 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f154 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f155 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f156 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f157 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f158 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f159 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f160 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f161 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f162 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f163 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f164 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f165 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f166 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f167 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f168 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f169 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f170 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f171 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f172 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f173 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f174 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f175 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f176 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f177 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f178 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f179 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f180 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f181 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f182 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f183 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f184 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f185 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f186 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f187 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f188 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f189 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f190 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f191 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f192 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f193 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f194 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f195 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f196 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f197 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f198 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f199 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f200 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f201 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f202 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f203 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f204 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f205 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f206 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f207 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f208 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f209 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f210 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f211 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f212 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f213 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f214 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f215 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f216 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f217 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f218 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f219 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f220 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f221 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f222 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f223 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f224 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f225 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f226 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f227 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f228 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f229 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f230 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f231 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f232 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f233 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f234 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f235 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f236 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f237 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f238 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f239 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f240 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f241 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f242 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f243 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f244 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f245 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f246 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f247 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f248 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f249 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f250 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f251 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f252 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f253 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f254 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f255 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f256 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f257 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f258 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f259 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f260 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f261 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f262 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f263 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f264 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f265 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f266 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f267 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:75px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;2. &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Дефинирајте ги и додадете ги во структурата dictionary сите&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:96px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;форми што можат да се креираат со 3 и 2 полиња&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:138px;&quot;&gt;&lt;span class=&quot;p2f11&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Такви структури во овој случај постојат 3. Истите се креираат и се додаваат во речник со име&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:153px;&quot;&gt;&lt;span class=&quot;p2f16&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;three_or_two_fields_shapes. &lt;/span&gt;&lt;span class=&quot;p2f11&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;За секоја форма се дефинираат исто и позиции во кои истата може да&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:167px;&quot;&gt;&lt;span class=&quot;p2f11&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;се најде. Речникот е следен:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:234px; top:189px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;three_or_two_fields_shapes = {&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:270px; top:198px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'three_fields_1': &lt;/span&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;[&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:207px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['..O..',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:216px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'..O..',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:225px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'..O..',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:235px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:334px; top:244px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....'],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:253px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:262px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:271px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'OOO..',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:280px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:289px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....']],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:270px; top:298px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'three_fields_2': &lt;/span&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;[&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:307px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:316px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...00',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:325px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:334px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:334px; top:343px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....'],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:352px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:361px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'..00.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:371px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:380px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:334px; top:389px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....'],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:398px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:407px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:416px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'..00.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:425px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:334px; top:434px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....'],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:443px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:452px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:461px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...00',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:470px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:479px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....']],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:274px; top:488px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'two_fields_1': &lt;/span&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;[&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:497px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:506px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:516px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'...0.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:525px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:334px; top:534px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....'],&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:543px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;['.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:552px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:561px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'..00.',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:337px; top:570px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....',&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:332px; top:579px;&quot;&gt;&lt;span class=&quot;p2f24&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'.....']]}&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:589px;&quot;&gt;&lt;span class=&quot;p2f11&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Следно овие 3 форми се додаваат во речникот на &lt;/span&gt;&lt;span class=&quot;p2f16&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;PIECES &lt;/span&gt;&lt;span class=&quot;p2f11&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на следниот начин:&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page3&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 3</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p3f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:74px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Излезниот екран по направените промени е следниот:&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page4&quot;&gt;
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 4</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p4f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f3 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p4f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f25 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+.p4f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p4f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background4&quot; src=&quot;_httpdocimg_/page4.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:75px;&quot;&gt;&lt;span class=&quot;p4f1&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;3. &lt;/span&gt;&lt;span class=&quot;p4f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;Обезбедете динамичко подесување на брзината на паѓање на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:96px;&quot;&gt;&lt;span class=&quot;p4f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;фигурите. Ако играчот исполни парен број редови, зголемете ја&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:117px;&quot;&gt;&lt;span class=&quot;p4f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;брзината за фактор NumberOfLevel*0.02. Во спротивно, ако&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:138px;&quot;&gt;&lt;span class=&quot;p4f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;играчот исполни непарен број редови, тогаш намалете ја&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:159px;&quot;&gt;&lt;span class=&quot;p4f5&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;брзината за фактор NumberOfLevel*0.02.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:202px;&quot;&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Единствените промени се потребни во функцијата за пресметка на брзинат&lt;/span&gt;&lt;span class=&quot;p4f15&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;a -&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:216px;&quot;&gt;&lt;span class=&quot;p4f25&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;calculateLevelAndFallFreq. &lt;/span&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Додаваме услов кој доколку &lt;/span&gt;&lt;span class=&quot;p4f15&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;score-&lt;/span&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;от, т.е. бројот на редови кои се&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:231px;&quot;&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;исполнети е парен – тогаш ја зголемуваме брзината на паѓање. Во обратниот случај истата ја&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:245px;&quot;&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;намалуваме.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:388px;&quot;&gt;&lt;span class=&quot;p4f17&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Излезот од програмата по додавање на овој услов, не може да се долови на слика.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514876_1/Lab1_181070_PNVI.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514876_1/Lab1_181070_PNVI.html</Metadata>
+    <Metadata name="Title">1.&amp;nbsp;Промена 1:</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Lab1_181070_PNVI.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1649514876_1\Lab1_181070_PNVI.html</Metadata>
+    <Metadata name="OrigSource">Lab1_181070_PNVI.html</Metadata>
+    <Metadata name="Source">Lab1_181070_PNVI.docx</Metadata>
+    <Metadata name="SourceFile">Lab1_181070_PNVI.docx</Metadata>
+    <Metadata name="Plugin">WordPlugin</Metadata>
+    <Metadata name="FileSize">91652</Metadata>
+    <Metadata name="FilenameRoot">Lab1_181070_PNVI</Metadata>
+    <Metadata name="FileFormat">Word</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="srclink_file">doc.docx</Metadata>
+    <Metadata name="srclinkFile">doc.docx</Metadata>
+    <Metadata name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+    <Metadata name="dc.Date">08/11/2021</Metadata>
+    <Metadata name="dc.Title">Laboratory exercise 1 - Memory Puzzle DOC</Metadata>
+    <Metadata name="Identifier">HASH011757d8109e97edd3687673</Metadata>
+    <Metadata name="lastmodified">1649510311</Metadata>
+    <Metadata name="lastmodifieddate">20220409</Metadata>
+    <Metadata name="oailastmodified">1649514881</Metadata>
+    <Metadata name="oailastmodifieddate">20220409</Metadata>
+    <Metadata name="assocfilepath">HASH0117.dir</Metadata>
+    <Metadata name="gsdlassocfile">image001.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image002.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.docx:unknown:</Metadata>
+  </Description>
+  <Content>
+
+&lt;div class=WordSection1&gt;
+
+&lt;p class=MsoTitle align=center style='text-align:center'&gt;&lt;span lang=MK&gt;Лабораториска
+вежба 1&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoSubtitle&gt;&lt;span lang=MK&gt;Студент:
+Викторија
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Промена
+при
+анимацијата
+кога даден
+играч ќе ја
+заврши
+играта. Му се
+појавува
+слика со &lt;/span&gt;“Well Done” &lt;span
+lang=MK&gt;текст, која
+кружи
+одреден
+период.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal align=center style='margin-left:.5in;text-align:center'&gt;&lt;span
+lang=MK&gt;&lt;img width=384 height=307 id=&quot;Picture 1&quot;
+src=&quot;_httpdocimg_/image001.png&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">2.&amp;nbsp;Промена 2:</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Додавање
+на нова форма
+&lt;/span&gt;PLAY_BUTTON. &lt;span lang=MK&gt;Најпрво
+истата се
+дефинира:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;line-height:normal;background:white'&gt;&lt;span style='font-size:
+10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;PLAY_BUTTON = &lt;/span&gt;&lt;b&gt;&lt;span
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:teal'&gt;'play_button' &lt;/span&gt;&lt;/b&gt;&lt;i&gt;&lt;span
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#8C8C8C'&gt;# CHANGE:
+added new shape, defining its name&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;line-height:normal;background:white'&gt;&lt;span style='font-size:
+10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Потоа
+се црта со
+помош на &lt;/span&gt;polygon&lt;span lang=MK&gt;:&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre style='margin-left:40.5pt;background:white'&gt;&lt;span style='color:#0033B3'&gt;elif &lt;/span&gt;&lt;span
+style='color:#080808'&gt;shape == PLAY_BUTTON:&lt;br&gt;
+    pygame.draw.polygon(DISPLAYSURF, GREEN, (&lt;br&gt;
+    (left + half - quarter, top), (left + BOXSIZE - &lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;1&lt;/span&gt;&lt;span style='color:#080808'&gt;, top + half), (left + half - quarter, top + BOXSIZE - &lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;1&lt;/span&gt;&lt;span style='color:#080808'&gt;),&lt;br&gt;
+    (left + quarter, top + half)))&lt;/span&gt;&lt;/pre&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;Крајниот
+резултат е
+уште една
+форма во играта:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;img width=483 height=384
+id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;
+alt=&quot;A screenshot of a computer
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+
+</Content>
+</Section>
+</Section>
+</Archive>

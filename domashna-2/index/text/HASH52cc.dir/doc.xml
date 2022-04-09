@@ -1,0 +1,302 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH52cc.dir\doc.xml"  gs2:docOID="HASH52cc744894a860e660e0ce" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH52cc744894a860e660e0ce" gs2:mode="add">
+
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH52cc744894a860e660e0ce.1" gs2:mode="add">
+
+
+
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;&lt;span
+
+lang=MK&gt;1.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style='font-size:11.5pt;line-height:107%;font-family:
+
+&quot;Segoe UI&quot;,sans-serif;color:#212529;background:white'&gt;Секвенцата
+
+што играчот
+
+треба да ја
+
+повтори
+
+потребно е да
+
+биде
+
+комплетно
+
+различна од таа
+
+во
+
+претходната
+
+итерација на
+
+играта така
+
+што секој
+
+елемент од
+
+секвенцата
+
+ќе биде додаден
+
+со случаен
+
+избор од
+
+можните
+
+полиња&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;За
+
+ова да биде
+
+овозможено,
+
+треба да се
+
+памети
+
+претходно
+
+генерираната
+
+секвенца. Тоа
+
+се прави со
+
+нова листа во
+
+која се чува
+
+ново генерираната
+
+секвенца.
+
+Потоа се
+
+проверува дали
+
+претходната
+
+листа ја
+
+содржи ново
+
+генерираната,
+
+и се додека
+
+ја содржи ќе
+
+се креира нов
+
+&lt;/span&gt;pattern&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Промена
+
+во код:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&lt;img width=624
+
+height=174 id=&quot;Picture 1&quot; src=&quot;_httpdocimg_/image001.png&quot;
+
+alt=&quot;Text
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;&lt;span
+
+lang=MK&gt;2.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style='font-size:11.5pt;line-height:107%;font-family:
+
+&quot;Segoe UI&quot;,sans-serif;color:#212529;background:white'&gt;Намалете
+
+ја вредноста
+
+на&amp;nbsp;timeout&amp;nbsp;(почнувајќи
+
+од 5 дo 3) на секои
+
+10 промени на
+
+секвенцата.
+
+По достигнување
+
+на вредност 3,
+
+повеќе не се
+
+прави намалување.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+
+додава
+
+бројач за
+
+итерациите
+
+на играчот.
+
+Кога
+
+бројачот ќе
+
+достигне
+
+вредност 10 и &lt;/span&gt;TIMEOUT&lt;span
+
+lang=MK&gt; ќе има
+
+вредност &lt;/span&gt;&amp;gt; 3&lt;span
+
+lang=MK&gt; тогаш се
+
+намалува
+
+вредноста на &lt;/span&gt;timeout
+
+&lt;span lang=MK&gt;и се
+
+реиницијализира
+
+вредноста на
+
+бројачот на 0.
+
+Исто така
+
+потребно е &lt;/span&gt;timeout
+
+&lt;span lang=MK&gt;да се
+
+дефинира
+
+како &lt;/span&gt;global.&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;img width=624 height=58
+
+id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;3.&lt;span
+
+style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span
+
+style='font-size:11.5pt;line-height:107%;font-family:&quot;Segoe UI&quot;,sans-serif;
+
+color:#212529;background:white'&gt;Да се
+
+зголеми
+
+матрицата од
+
+полиња за едно
+
+по двете
+
+димензии
+
+(ширина и
+
+висина) секогаш
+
+кога ќе се
+
+достигне
+
+резултат со
+
+вредност што
+
+цел број пати
+
+содржи 10 (10, 20, 30, ...).&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+
+проверува
+
+вредноста на &lt;/span&gt;currentStep
+
+&lt;span lang=MK&gt;и кога
+
+истиот ќе
+
+достигне
+
+вредност
+
+делива со 10
+
+тогаш се црта
+
+нова форма и
+
+се зголемуваат
+
+вредностите
+
+на &lt;/span&gt;WINDOWSIZE &lt;span lang=MK&gt;и &lt;/span&gt;WINDOWHEIGHT.&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;img width=624 height=399
+
+id=&quot;Picture 3&quot; src=&quot;_httpdocimg_/image003.png&quot;
+
+alt=&quot;Shape
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+
+</Doc>

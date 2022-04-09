@@ -1,0 +1,24 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513644_1\181070_SlidePuzzle.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513651\181070_SlidePuzzle.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513652\Lab1_181070_PNVI.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513656\Lab1_181070_PNVI.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513657_1\Lab4_181070_Wormy.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513662\Lab4_181070_Wormy.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513663\Lab5_Tetromino_181070.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513664_1\Lab6_181070_Squirrel_eats_squirrel.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513669\Lab6_181070_Squirrel_eats_squirrel.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513670_1\Laboratoriska3_181070.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649513674\Laboratoriska3_181070.html is being processed by HTMLPlugin.
+************** Import Finished **************
+11 documents were considered for processing:
+    11 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

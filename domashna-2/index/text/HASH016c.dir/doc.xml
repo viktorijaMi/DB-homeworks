@@ -1,0 +1,386 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH016c.dir\doc.xml"  gs2:docOID="HASH016c02a059051025ff756c4a" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH016c02a059051025ff756c4a" gs2:mode="add">
+
+
+
+
+&lt;div class=WordSection1&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center;line-height:normal;
+
+background:white'&gt;&lt;span style='font-size:18.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+
+color:#212529'&gt;Лабораториска
+
+вежба - Slide Puzzle&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoSubtitle align=center style='text-align:center'&gt;&lt;span lang=MK&gt;Студент:
+
+Викторија
+
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-indent:-.25in'&gt;&lt;b&gt;1.&lt;span
+
+style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span
+
+lang=MK&gt;Промена на
+
+бројот на
+
+редиците и
+
+колоните &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;Промената
+
+во код:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+
+margin-left:.25in;line-height:normal;background:white'&gt;&lt;span style='font-size:
+
+10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;BOARDWIDTH = &lt;/span&gt;&lt;span
+
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#1750EB'&gt;8  &lt;/span&gt;&lt;i&gt;&lt;span
+
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#8C8C8C'&gt;# number of
+
+columns in the board CHANGED&lt;br&gt;
+
+&lt;/span&gt;&lt;/i&gt;&lt;span style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;BOARDHEIGHT
+
+= &lt;/span&gt;&lt;span style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#1750EB'&gt;6
+
+&lt;/span&gt;&lt;i&gt;&lt;span style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#8C8C8C'&gt;#
+
+number of rows in the board CHANGED&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+
+
+&lt;pre style='margin-left:.25in;background:white'&gt;&lt;span style='color:#080808'&gt;WINDOWWIDTH = &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;640 &lt;/span&gt;&lt;span style='color:#080808'&gt;+ &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;200 &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# CHANGED WINDOW WIDTH FOR THE SCREEN TO LOOK BETTER WITH UPDATING THE BOARDWIDTH AND BOARDHEIGHT&lt;br&gt;
+
+&lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;WINDOWHEIGHT = &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;480 &lt;/span&gt;&lt;span style='color:#080808'&gt;+ &lt;/span&gt;&lt;span
+
+style='color:#1750EB'&gt;200 &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# CHANGED WINDOW HEIGHT FOR THE SCREEN TO LOOK BETTER WITH UPDATING THE BOARDWIDTH AND BOARDHEIGHT&lt;/span&gt;&lt;/i&gt;&lt;/pre&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;Оваа
+
+промена води
+
+до додавање
+
+на повеќе
+
+полиња кои можеме
+
+да ги
+
+поместуваме
+
+на таблата
+
+како и зголемен
+
+екран за
+
+играње на
+
+играта:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;Како
+
+изгледа
+
+екранот сега:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='margin-left:.25in;text-align:center'&gt;&lt;span
+
+lang=MK&gt;&lt;img width=316 height=252 id=&quot;Picture 1&quot;
+
+src=&quot;_httpdocimg_/image001.png&quot;
+
+alt=&quot;Graphical user interface, application
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;Како
+
+изгледаше
+
+екранот пред
+
+промената:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='margin-left:.25in;text-align:center'&gt;&lt;span
+
+lang=MK&gt;&lt;img width=396 height=299 id=&quot;Picture 2&quot;
+
+src=&quot;_httpdocimg_/image002.png&quot;
+
+alt=&quot;Graphical user interface
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='margin-left:.25in'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;b&gt;2.&lt;span
+
+style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span
+
+lang=MK&gt;Додавање на
+
+поле &lt;/span&gt;“HELP”&lt;/b&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Промената
+
+во код е на
+
+повеќе места.
+
+Најбитно е
+
+додавањето
+
+на новата
+
+функција &lt;/span&gt;help &lt;span
+
+lang=MK&gt;која се
+
+повикува со
+
+координатите
+
+на празното
+
+место и бара
+
+каде е истото
+
+на таблата. Во
+
+однос на тоа
+
+кои се
+
+соседите кои
+
+би можеле да
+
+се играат,
+
+врз истите се
+
+извршува
+
+анимацијата
+
+да светнат
+
+црвени и се
+
+прикажува
+
+текст &lt;/span&gt;“Possible move in next step”. &lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;img width=385
+
+height=332 id=&quot;Picture 7&quot; src=&quot;_httpdocimg_/image003.png&quot;
+
+alt=&quot;Graphical user interface, text, application
+
+Description automatically generated&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;На
+
+сликата се
+
+гледа
+
+додаденото
+
+ново поле &lt;/span&gt;Help, &lt;span
+
+lang=MK&gt;додека
+
+анимацијата
+
+не може да се
+
+долови бидејќи
+
+истата
+
+претставува &lt;/span&gt;hint
+
+&lt;span lang=MK&gt;па не би
+
+требало да се
+
+прикажува
+
+подолго од 1
+
+секунда.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;b&gt;&lt;span
+
+lang=MK&gt;3.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span lang=MK&gt;Додавање
+
+на бројач на
+
+сите потези и
+
+приказ на друга
+
+порака&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Во
+
+овој случај
+
+во код е
+
+доволно да се
+
+додаде&lt;/span&gt;&lt;span lang=MK&gt; &lt;/span&gt;&lt;span
+
+lang=MK&gt;променлива
+
+бројач кој се
+
+иницијализира
+
+на 0 при старт
+
+на играта.
+
+Истата се
+
+зголемува за
+
+1 при секој
+
+потег на
+
+играчот. Се
+
+менува пораката
+
+доколку е
+
+задоволен
+
+условот &lt;/span&gt;“if mainBoard ==
+
+SOLVEDBOARD” &lt;span lang=MK&gt;која
+
+сега
+
+прикажува со
+
+колку потези
+
+ја решил
+
+играчот
+
+загатката
+
+наспроти
+
+колку потези
+
+би му требале
+
+на компјутерот.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Изгледот
+
+на играта е
+
+ваков при
+
+завршетокот:&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;&lt;img
+
+width=410 height=354 id=&quot;Picture 8&quot; src=&quot;_httpdocimg_/image004.png&quot;
+
+alt=&quot;Graphical user interface
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+
+</Doc>

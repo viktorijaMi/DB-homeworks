@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>181070_SlidePuzzle\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 2 - SlidePuzzle DOC</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">16/11/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>181070_SlidePuzzle\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 2 - SlidePuzzle PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">16/11/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab1_181070_PNVI\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 1 - Memory Puzzle DOC</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">08/11/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab1_181070_PNVI\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 1 - Memory Puzzle PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">08/11/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab4_181070_Wormy\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 4 - Wormy DOC</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">06/12/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab4_181070_Wormy\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 4 - Wormy PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">06/12/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab5_Tetromino_181070\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 5 - Tetromino PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">13/12/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab6_181070_Squirrel_eats_squirrel\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 6 - Squirrel DOC</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">19/12/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Lab6_181070_Squirrel_eats_squirrel\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 6 - Squirrel PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">19/12/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Laboratoriska3_181070\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 3 - Simulate DOC</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">22/11/2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Laboratoriska3_181070\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Laboratory exercise 3 - Simulate PDF</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">22/11/2021</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

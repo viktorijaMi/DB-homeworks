@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514906_1/Laboratoriska3_181070.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514906_1/Laboratoriska3_181070.html</Metadata>
+    <Metadata name="Title">Лабораториска 3: Simulate</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Laboratoriska3_181070.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1649514906_1\Laboratoriska3_181070.html</Metadata>
+    <Metadata name="OrigSource">Laboratoriska3_181070.html</Metadata>
+    <Metadata name="Source">Laboratoriska3_181070.docx</Metadata>
+    <Metadata name="SourceFile">Laboratoriska3_181070.docx</Metadata>
+    <Metadata name="Plugin">WordPlugin</Metadata>
+    <Metadata name="FileSize">114204</Metadata>
+    <Metadata name="FilenameRoot">Laboratoriska3_181070</Metadata>
+    <Metadata name="FileFormat">Word</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="srclink_file">doc.docx</Metadata>
+    <Metadata name="srclinkFile">doc.docx</Metadata>
+    <Metadata name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+    <Metadata name="dc.Date">22/11/2021</Metadata>
+    <Metadata name="dc.Title">Laboratory exercise 3 - Simulate DOC</Metadata>
+    <Metadata name="Identifier">HASH52cc744894a860e660e0ce</Metadata>
+    <Metadata name="lastmodified">1649510331</Metadata>
+    <Metadata name="lastmodifieddate">20220409</Metadata>
+    <Metadata name="oailastmodified">1649514913</Metadata>
+    <Metadata name="oailastmodifieddate">20220409</Metadata>
+    <Metadata name="assocfilepath">HASH52cc.dir</Metadata>
+    <Metadata name="gsdlassocfile">image001.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image002.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image003.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.docx:unknown:</Metadata>
+  </Description>
+  <Content>
+
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Студент: Викторија Мијалчева 181070</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;&lt;span
+lang=MK&gt;1.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style='font-size:11.5pt;line-height:107%;font-family:
+&quot;Segoe UI&quot;,sans-serif;color:#212529;background:white'&gt;Секвенцата
+што играчот
+треба да ја
+повтори
+потребно е да
+биде
+комплетно
+различна од таа
+во
+претходната
+итерација на
+играта така
+што секој
+елемент од
+секвенцата
+ќе биде додаден
+со случаен
+избор од
+можните
+полиња&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;За
+ова да биде
+овозможено,
+треба да се
+памети
+претходно
+генерираната
+секвенца. Тоа
+се прави со
+нова листа во
+која се чува
+ново генерираната
+секвенца.
+Потоа се
+проверува дали
+претходната
+листа ја
+содржи ново
+генерираната,
+и се додека
+ја содржи ќе
+се креира нов
+&lt;/span&gt;pattern&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Промена
+во код:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&lt;img width=624
+height=174 id=&quot;Picture 1&quot; src=&quot;_httpdocimg_/image001.png&quot;
+alt=&quot;Text
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;&lt;span
+lang=MK&gt;2.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp;
+&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style='font-size:11.5pt;line-height:107%;font-family:
+&quot;Segoe UI&quot;,sans-serif;color:#212529;background:white'&gt;Намалете
+ја вредноста
+на&amp;nbsp;timeout&amp;nbsp;(почнувајќи
+од 5 дo 3) на секои
+10 промени на
+секвенцата.
+По достигнување
+на вредност 3,
+повеќе не се
+прави намалување.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+додава
+бројач за
+итерациите
+на играчот.
+Кога
+бројачот ќе
+достигне
+вредност 10 и &lt;/span&gt;TIMEOUT&lt;span
+lang=MK&gt; ќе има
+вредност &lt;/span&gt;&amp;gt; 3&lt;span
+lang=MK&gt; тогаш се
+намалува
+вредноста на &lt;/span&gt;timeout
+&lt;span lang=MK&gt;и се
+реиницијализира
+вредноста на
+бројачот на 0.
+Исто така
+потребно е &lt;/span&gt;timeout
+&lt;span lang=MK&gt;да се
+дефинира
+како &lt;/span&gt;global.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;img width=624 height=58
+id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;&gt;&lt;/p&gt;
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;i&gt;3.&lt;span
+style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span
+style='font-size:11.5pt;line-height:107%;font-family:&quot;Segoe UI&quot;,sans-serif;
+color:#212529;background:white'&gt;Да се
+зголеми
+матрицата од
+полиња за едно
+по двете
+димензии
+(ширина и
+висина) секогаш
+кога ќе се
+достигне
+резултат со
+вредност што
+цел број пати
+содржи 10 (10, 20, 30, ...).&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+проверува
+вредноста на &lt;/span&gt;currentStep
+&lt;span lang=MK&gt;и кога
+истиот ќе
+достигне
+вредност
+делива со 10
+тогаш се црта
+нова форма и
+се зголемуваат
+вредностите
+на &lt;/span&gt;WINDOWSIZE &lt;span lang=MK&gt;и &lt;/span&gt;WINDOWHEIGHT.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;img width=624 height=399
+id=&quot;Picture 3&quot; src=&quot;_httpdocimg_/image003.png&quot;
+alt=&quot;Shape
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+
+
+
+</Content>
+</Section>
+</Section>
+</Archive>

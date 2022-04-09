@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="Title">Lab6 181070 Squirrel eats squirrel</Metadata>
+    <Metadata name="URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514896_1/Lab6_181070_Squirrel_eats_squirrel.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514896_1/Lab6_181070_Squirrel_eats_squirrel.html</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Lab6_181070_Squirrel_eats_squirrel.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1649514896_1\Lab6_181070_Squirrel_eats_squirrel.html</Metadata>
+    <Metadata name="OrigSource">Lab6_181070_Squirrel_eats_squirrel.html</Metadata>
+    <Metadata name="Source">Lab6_181070_Squirrel_eats_squirrel.docx</Metadata>
+    <Metadata name="SourceFile">Lab6_181070_Squirrel_eats_squirrel.docx</Metadata>
+    <Metadata name="Plugin">WordPlugin</Metadata>
+    <Metadata name="FileSize">167993</Metadata>
+    <Metadata name="FilenameRoot">Lab6_181070_Squirrel_eats_squirrel</Metadata>
+    <Metadata name="FileFormat">Word</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="srclink_file">doc.docx</Metadata>
+    <Metadata name="srclinkFile">doc.docx</Metadata>
+    <Metadata name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+    <Metadata name="dc.Date">19/12/2021</Metadata>
+    <Metadata name="dc.Title">Laboratory exercise 6 - Squirrel DOC</Metadata>
+    <Metadata name="Identifier">HASH2b01ee75c3d4fdef206bfb</Metadata>
+    <Metadata name="lastmodified">1649510371</Metadata>
+    <Metadata name="lastmodifieddate">20220409</Metadata>
+    <Metadata name="oailastmodified">1649514904</Metadata>
+    <Metadata name="oailastmodifieddate">20220409</Metadata>
+    <Metadata name="assocfilepath">HASH2b01.dir</Metadata>
+    <Metadata name="gsdlassocfile">image001.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image002.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.docx:unknown:</Metadata>
+  </Description>
+  <Content>
+
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Лабораториска вежба 6 - Squirrel eats squirrels</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;Студент:
+Викторија
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;span
+lang=MK style='font-size:16.0pt;line-height:107%;font-family:&quot;Calibri Light&quot;,sans-serif;
+color:#2F5496'&gt;1.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span
+lang=MK style='font-size:16.0pt;line-height:107%;font-family:&quot;Calibri Light&quot;,sans-serif;
+color:#2F5496'&gt;Increase the camera area of the game to 960x480 pixels (1
+point).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;За
+да се
+постигне ова
+потребна е
+следната промена:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-bottom:0in;line-height:normal;background:white'&gt;&lt;span
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#080808'&gt;WINWIDTH = &lt;/span&gt;&lt;span
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#1750EB'&gt;960 &lt;/span&gt;&lt;i&gt;&lt;span
+style='font-size:10.0pt;font-family:&quot;Courier New&quot;;color:#8C8C8C'&gt;# width of the
+program's window, in pixels CHANGE&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Изгледот
+на екранот по
+направената
+промена е
+следен:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&lt;img width=624
+height=334 id=&quot;Picture 1&quot;
+src=&quot;_httpdocimg_/image001.png&quot;
+alt=&quot;Graphical user interface
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoListParagraph style='text-align:justify;text-indent:-.25in'&gt;&lt;span
+lang=MK style='font-size:16.0pt;line-height:107%;font-family:&quot;Calibri Light&quot;,sans-serif;
+color:#2F5496'&gt;2.&lt;span style='font:7.0pt &quot;Times New Roman&quot;'&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span
+lang=MK style='font-size:16.0pt;line-height:107%;font-family:&quot;Calibri Light&quot;,sans-serif;
+color:#2F5496'&gt;Define two new constants for the CAMERASLACK constants for the
+horizontal and vertical direction appropriately (1 point).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Дефинирање
+на двете
+константи:&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre style='background:white'&gt;&lt;span style='color:#080808'&gt;CAMERASLACK_X = &lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;90 &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+&lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;CAMERASLACK_Y = &lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;90 &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# CHANGE&lt;/span&gt;&lt;/i&gt;&lt;/pre&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Нивно
+интегрирање
+во кодот:&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre style='background:white'&gt;&lt;span style='color:#0033B3'&gt;if &lt;/span&gt;&lt;span
+style='color:#080808'&gt;(camerax + HALF_WINWIDTH) - playerCenterx &amp;gt; CAMERASLACK_X: &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;camerax = playerCenterx + CAMERASLACK - HALF_WINWIDTH&lt;br&gt;
+&lt;/span&gt;&lt;span style='color:#0033B3'&gt;elif &lt;/span&gt;&lt;span style='color:#080808'&gt;playerCenterx - (camerax + HALF_WINWIDTH) &amp;gt; CAMERASLACK_X: &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;camerax = playerCenterx - CAMERASLACK - HALF_WINWIDTH&lt;br&gt;
+&lt;/span&gt;&lt;span style='color:#0033B3'&gt;if &lt;/span&gt;&lt;span style='color:#080808'&gt;(cameray + HALF_WINHEIGHT) - playerCentery &amp;gt; CAMERASLACK_Y: &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;cameray = playerCentery + CAMERASLACK - HALF_WINHEIGHT&lt;br&gt;
+&lt;/span&gt;&lt;span style='color:#0033B3'&gt;elif &lt;/span&gt;&lt;span style='color:#080808'&gt;playerCentery - (cameray + HALF_WINHEIGHT) &amp;gt; CAMERASLACK_Y: &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;cameray = playerCentery - CAMERASLACK - HALF_WINHEIGHT&lt;/span&gt;&lt;/pre&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Изгледот
+на екран по
+направената
+промена нема
+одредена
+знајачност –
+тој е ист.
+Единствената
+промена е во
+кодот.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">3.&amp;nbsp;Introduce the possibility an enemy squirrels to bounce downwards (the squirrel could bounce only in one direction only upwards or only downwards). The direction is determined when creating an enemy squirrel. (3 points)</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;Единствената
+промена која
+е потребна да
+се направи е
+при
+креирањето
+на нова
+верверичка
+непријател.
+Потребно е &lt;/span&gt;bounceheight
+&lt;span lang=MK&gt;да се
+промени во:&lt;/span&gt;&lt;/p&gt;
+
+&lt;pre style='background:white'&gt;&lt;span style='color:#080808'&gt;sq[&lt;/span&gt;&lt;b&gt;&lt;span
+style='color:teal'&gt;'bounceheight'&lt;/span&gt;&lt;/b&gt;&lt;span style='color:#080808'&gt;] = random.randint(-&lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;70&lt;/span&gt;&lt;span style='color:#080808'&gt;, &lt;/span&gt;&lt;span
+style='color:#1750EB'&gt;80&lt;/span&gt;&lt;span style='color:#080808'&gt;) &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;/span&gt;&lt;/i&gt;&lt;/pre&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;Во овој
+случај со
+веројатност
+0.8 (веројатноста
+ја поставив
+висока за да
+биде &lt;/span&gt;bounce rate&lt;span lang=MK&gt; на
+надолу
+повидливо)
+ново
+креираните
+верверички
+ќе скокаат на
+надолу и тоа
+со скок од -70.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;Изгледот
+на екранот по
+направената
+промена е
+следниот:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&lt;img width=624 height=334 id=&quot;Picture 3&quot;
+src=&quot;_httpdocimg_/image002.png&quot;
+alt=&quot;Chart
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Од 3
+ново
+креирани
+верверички, 3
+од нив се со
+поголем скок
+на надолу.
+Ова подобро
+би било
+видливо при
+видео.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">4.&amp;nbsp;Change the logic of the game. If the squirrel is hit by the larger animal it becomes smaller using the same logic as for the getting bigger at the current game. The game is over when the squirrel grows to the WINSIZE or LOSTSIZE (5).</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;Потребната
+промена е
+само кога
+верверичката
+не е во &lt;/span&gt;invulnerableMode:&lt;/p&gt;
+
+&lt;pre style='background:white'&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# player is smaller and takes damage&lt;br&gt;
+&lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;invulnerableMode = &lt;/span&gt;&lt;span
+style='color:#0033B3'&gt;True&lt;br&gt;
+&lt;/span&gt;&lt;span style='color:#080808'&gt;invulnerableStartTime = time.time()&lt;br&gt;
+playerObj[&lt;/span&gt;&lt;b&gt;&lt;span style='color:teal'&gt;'health'&lt;/span&gt;&lt;/b&gt;&lt;span
+style='color:#080808'&gt;] -= &lt;/span&gt;&lt;span style='color:#1750EB'&gt;1&lt;br&gt;
+&lt;/span&gt;&lt;span style='color:#080808'&gt;playerObj[&lt;/span&gt;&lt;b&gt;&lt;span style='color:teal'&gt;'size'&lt;/span&gt;&lt;/b&gt;&lt;span
+style='color:#080808'&gt;] -= (&lt;/span&gt;&lt;span style='color:navy'&gt;int&lt;/span&gt;&lt;span
+style='color:#080808'&gt;((sqObj[&lt;/span&gt;&lt;b&gt;&lt;span style='color:teal'&gt;'width'&lt;/span&gt;&lt;/b&gt;&lt;span
+style='color:#080808'&gt;] * sqObj[&lt;/span&gt;&lt;b&gt;&lt;span style='color:teal'&gt;'height'&lt;/span&gt;&lt;/b&gt;&lt;span
+style='color:#080808'&gt;]) ** &lt;/span&gt;&lt;span style='color:#1750EB'&gt;0.2&lt;/span&gt;&lt;span
+style='color:#080808'&gt;) + &lt;/span&gt;&lt;span style='color:#1750EB'&gt;1&lt;/span&gt;&lt;span
+style='color:#080808'&gt;) &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+&lt;/span&gt;&lt;/i&gt;&lt;span style='color:#0033B3'&gt;if &lt;/span&gt;&lt;span style='color:#080808'&gt;playerObj[&lt;/span&gt;&lt;b&gt;&lt;span
+style='color:teal'&gt;'size'&lt;/span&gt;&lt;/b&gt;&lt;span style='color:#080808'&gt;] == WINSIZE: &lt;/span&gt;&lt;i&gt;&lt;span
+style='color:#8C8C8C'&gt;# CHANGE&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;gameOverMode = &lt;/span&gt;&lt;span
+style='color:#0033B3'&gt;True &lt;/span&gt;&lt;i&gt;&lt;span style='color:#8C8C8C'&gt;# turn on &amp;quot;game over mode&amp;quot;&lt;br&gt;
+    &lt;/span&gt;&lt;/i&gt;&lt;span style='color:#080808'&gt;gameOverStartTime = time.time()&lt;/span&gt;&lt;/pre&gt;
+
+&lt;p class=MsoNormal&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span lang=MK&gt;За да се
+види оваа
+промена на екран
+потребно е
+снимање на
+видео.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+</Content>
+</Section>
+</Section>
+</Archive>

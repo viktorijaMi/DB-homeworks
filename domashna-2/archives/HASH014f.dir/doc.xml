@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">windows_1252</Metadata>
+    <Metadata name="URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514884_1/Lab4_181070_Wormy.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/Vance Mijalcev/Greenstone3/web/sites/localsite/collect/domashna/tmp/1649514884_1/Lab4_181070_Wormy.html</Metadata>
+    <Metadata name="Title">1.&amp;nbsp;По 45 секунди од почетокот на играта додадете друг црв. Оригиналниот црв треба да го избегнува вториот црв. Ако го допре со главата, неговото тело расте за еден сегмент. Ако вториот црв го допре оригиналниот, тогаш неговото тело се продолжува за еден сегмент. Движењето на вториот црв е случајно.“</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Lab4_181070_Wormy.docx</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1649514884_1\Lab4_181070_Wormy.html</Metadata>
+    <Metadata name="OrigSource">Lab4_181070_Wormy.html</Metadata>
+    <Metadata name="Source">Lab4_181070_Wormy.docx</Metadata>
+    <Metadata name="SourceFile">Lab4_181070_Wormy.docx</Metadata>
+    <Metadata name="Plugin">WordPlugin</Metadata>
+    <Metadata name="FileSize">137396</Metadata>
+    <Metadata name="FilenameRoot">Lab4_181070_Wormy</Metadata>
+    <Metadata name="FileFormat">Word</Metadata>
+    <Metadata name="srcicon">_icondocx_</Metadata>
+    <Metadata name="srclink_file">doc.docx</Metadata>
+    <Metadata name="srclinkFile">doc.docx</Metadata>
+    <Metadata name="dc.Creator">mijalchevaviktorija@gmail.com</Metadata>
+    <Metadata name="dc.Date">06/12/2021</Metadata>
+    <Metadata name="dc.Title">Laboratory exercise 4 - Wormy DOC</Metadata>
+    <Metadata name="Identifier">HASH014f08dff6cfb0a22e452cd4</Metadata>
+    <Metadata name="lastmodified">1649510341</Metadata>
+    <Metadata name="lastmodifieddate">20220409</Metadata>
+    <Metadata name="oailastmodified">1649514891</Metadata>
+    <Metadata name="oailastmodifieddate">20220409</Metadata>
+    <Metadata name="assocfilepath">HASH014f.dir</Metadata>
+    <Metadata name="gsdlassocfile">image001.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image002.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">image003.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">doc.docx:unknown:</Metadata>
+  </Description>
+  <Content>
+
+&lt;div class=WordSection1&gt;
+
+&lt;p class=MsoSubtitle align=center style='text-align:center'&gt;&lt;span lang=MK
+style='font-size:14.0pt;line-height:107%'&gt;Лабораториска
+вежба 4 – &lt;/span&gt;&lt;span style='font-size:14.0pt;
+line-height:107%'&gt;Wormy&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoSubtitle align=center style='text-align:center'&gt;&lt;span lang=MK
+style='font-size:14.0pt;line-height:107%'&gt;Студент:
+Викторија
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Најпрво
+се
+иницијализира
+другиот црв
+со стартни
+координати и
+се дефинира
+неговиот речник
+од
+координати
+кои го
+содржат
+неговото
+тело. Се
+додава
+условот кој
+проверува
+дали црвот
+кој ние го
+раководиме
+го допира
+неговото тело
+и доколку да
+се додава
+координата
+во речникот
+од
+координати
+на нашиот црв
+и обратното
+доколку е
+допрен
+оригиналниот
+црв со
+вториот се
+додава еден
+сегмент во
+телото на
+вториот црв. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;img width=464
+height=338 id=&quot;Picture 1&quot; src=&quot;_httpdocimg_/image001.png&quot;
+alt=&quot;A screenshot of a computer
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">2.&amp;nbsp;Додадете елементи што трепкаат (секој пат по три) на случајно избрани позиции со димензија од едно квадратче. Тие се појавуваат во времетраење од 5 секунди. Ако оригиналниот црв ги изеде, играчот добива дополнителни поени (по 2 за секој изеден елемент). Овие поени треба да се вклучат во конечниот резултат на начин што вие ќе го изберете. Треба да обезбедите објаснување за формулата што ја користите за пресметување на резултатот. Резултатот треба да се прикаже на екранот што се појавува кога играта ќе заврши.“</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+иницијализира
+бројач кој ќе
+ги брои освоените
+поени на
+играчот и
+потоа ќе ги
+прикаже. Исто
+така во листа
+се
+сместуваат
+три рандом
+локации на
+мрежата за
+каде да се
+прикажат
+јаболките
+кои ќе
+трепкаат. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Потоа
+при
+движењето на
+црвот, се
+проверува
+дали е
+изедена
+некоја
+јаболка од
+овие позиции,
+и доколку да
+се зголемува
+бројачот за 2.
+Откако една е
+изедена, се
+пресметува
+повторно
+нови 3
+позиции за
+прикажување
+на новите три
+трепкачки
+јаболки. Исто
+така се
+дефинирани
+две нови бои
+за трепкачките
+јаболки – се
+прикажуваат
+само во бои бело,
+сино и
+индиго.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;&lt;img
+width=412 height=324 id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;
+alt=&quot;Graphical user interface
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Означените
+јаболки се
+оние што
+трепкаат, додека
+4тата е
+јаболката
+која се
+поставува од
+самиот старт.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">3.&amp;nbsp;На екранот што се појавува кога играта ќе заврши треба да се додадат две копчиња, &amp;quot;Start from the beginning&amp;quot; и &amp;quot;Quit&amp;quot;. Кога играчот ќе кликне на првото копче, играта треба да почне од почеток (без да се појави почетниот екран). Кога играчот ќе кликне на второто копче, треба да се исклучи играта.“</Metadata>
+  </Description>
+  <Content>
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+дефинираат
+две нови
+копчиња во
+функцијата &lt;/span&gt;showGameOverScreen.
+&lt;span lang=MK&gt;Се
+потавуваат
+нивните
+фонотови,
+големина на фонт,
+што да се
+рендерира
+како текст и
+боја на
+текстот.
+Следно се
+поставуваат
+координатите
+каде истите
+да се
+прикажат –
+пресметани
+се бројки за
+координатите
+со тоа што
+копчињата ке
+се постават
+веднаш под
+текстот &lt;/span&gt;“Game over”. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Исто
+се додава и
+условот
+доколку е
+кликнато
+копчето &lt;/span&gt;quit – &lt;span lang=MK&gt;да
+терминира
+играта.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;img width=514
+height=407 id=&quot;Picture 3&quot; src=&quot;_httpdocimg_/image003.jpg&quot;
+alt=&quot;Graphical user interface, application
+
+Description automatically generated&quot;&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+
+
+</Content>
+</Section>
+</Section>
+</Archive>

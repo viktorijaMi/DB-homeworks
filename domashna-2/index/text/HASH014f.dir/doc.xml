@@ -1,0 +1,412 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH014f.dir\doc.xml"  gs2:docOID="HASH014f08dff6cfb0a22e452cd4" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH014f08dff6cfb0a22e452cd4" gs2:mode="add">
+
+
+
+
+&lt;div class=WordSection1&gt;
+
+
+
+&lt;p class=MsoSubtitle align=center style='text-align:center'&gt;&lt;span lang=MK
+
+style='font-size:14.0pt;line-height:107%'&gt;Лабораториска
+
+вежба 4 – &lt;/span&gt;&lt;span style='font-size:14.0pt;
+
+line-height:107%'&gt;Wormy&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoSubtitle align=center style='text-align:center'&gt;&lt;span lang=MK
+
+style='font-size:14.0pt;line-height:107%'&gt;Студент:
+
+Викторија
+
+Мијалчева 181070&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Најпрво
+
+се
+
+иницијализира
+
+другиот црв
+
+со стартни
+
+координати и
+
+се дефинира
+
+неговиот речник
+
+од
+
+координати
+
+кои го
+
+содржат
+
+неговото
+
+тело. Се
+
+додава
+
+условот кој
+
+проверува
+
+дали црвот
+
+кој ние го
+
+раководиме
+
+го допира
+
+неговото тело
+
+и доколку да
+
+се додава
+
+координата
+
+во речникот
+
+од
+
+координати
+
+на нашиот црв
+
+и обратното
+
+доколку е
+
+допрен
+
+оригиналниот
+
+црв со
+
+вториот се
+
+додава еден
+
+сегмент во
+
+телото на
+
+вториот црв. &lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;img width=464
+
+height=338 id=&quot;Picture 1&quot; src=&quot;_httpdocimg_/image001.png&quot;
+
+alt=&quot;A screenshot of a computer
+
+Description automatically generated with medium confidence&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH014f08dff6cfb0a22e452cd4.1" gs2:mode="add">
+
+
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+
+иницијализира
+
+бројач кој ќе
+
+ги брои освоените
+
+поени на
+
+играчот и
+
+потоа ќе ги
+
+прикаже. Исто
+
+така во листа
+
+се
+
+сместуваат
+
+три рандом
+
+локации на
+
+мрежата за
+
+каде да се
+
+прикажат
+
+јаболките
+
+кои ќе
+
+трепкаат. &lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Потоа
+
+при
+
+движењето на
+
+црвот, се
+
+проверува
+
+дали е
+
+изедена
+
+некоја
+
+јаболка од
+
+овие позиции,
+
+и доколку да
+
+се зголемува
+
+бројачот за 2.
+
+Откако една е
+
+изедена, се
+
+пресметува
+
+повторно
+
+нови 3
+
+позиции за
+
+прикажување
+
+на новите три
+
+трепкачки
+
+јаболки. Исто
+
+така се
+
+дефинирани
+
+две нови бои
+
+за трепкачките
+
+јаболки – се
+
+прикажуваат
+
+само во бои бело,
+
+сино и
+
+индиго.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;span lang=MK&gt;&lt;img
+
+width=412 height=324 id=&quot;Picture 2&quot; src=&quot;_httpdocimg_/image002.png&quot;
+
+alt=&quot;Graphical user interface
+
+Description automatically generated&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Означените
+
+јаболки се
+
+оние што
+
+трепкаат, додека
+
+4тата е
+
+јаболката
+
+која се
+
+поставува од
+
+самиот старт.
+
+&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH014f08dff6cfb0a22e452cd4.2" gs2:mode="add">
+
+
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Се
+
+дефинираат
+
+две нови
+
+копчиња во
+
+функцијата &lt;/span&gt;showGameOverScreen.
+
+&lt;span lang=MK&gt;Се
+
+потавуваат
+
+нивните
+
+фонотови,
+
+големина на фонт,
+
+што да се
+
+рендерира
+
+како текст и
+
+боја на
+
+текстот.
+
+Следно се
+
+поставуваат
+
+координатите
+
+каде истите
+
+да се
+
+прикажат –
+
+пресметани
+
+се бројки за
+
+координатите
+
+со тоа што
+
+копчињата ке
+
+се постават
+
+веднаш под
+
+текстот &lt;/span&gt;“Game over”. &lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal style='text-align:justify'&gt;&lt;span lang=MK&gt;Исто
+
+се додава и
+
+условот
+
+доколку е
+
+кликнато
+
+копчето &lt;/span&gt;quit – &lt;span lang=MK&gt;да
+
+терминира
+
+играта.&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=MsoNormal align=center style='text-align:center'&gt;&lt;img width=514
+
+height=407 id=&quot;Picture 3&quot; src=&quot;_httpdocimg_/image003.jpg&quot;
+
+alt=&quot;Graphical user interface, application
+
+Description automatically generated&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+
+</Doc>

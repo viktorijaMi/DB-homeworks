@@ -1,0 +1,25 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514865_1\181070_SlidePuzzle.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514874\181070_SlidePuzzle.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514876_1\Lab1_181070_PNVI.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514882\Lab1_181070_PNVI.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514884_1\Lab4_181070_Wormy.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514891\Lab4_181070_Wormy.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514894\Lab5_Tetromino_181070.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514896_1\Lab6_181070_Squirrel_eats_squirrel.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514904\Lab6_181070_Squirrel_eats_squirrel.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514906_1\Laboratoriska3_181070.html is being processed by StructuredHTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514914\Laboratoriska3_181070.html is being processed by HTMLPlugin.
+The file C:\Users\Vance Mijalcev\Greenstone3\web\sites\localsite\collect\domashna\tmp\1649514916\Learning_an_agent_to_walk_using_Reinforcement_Learning.html is being processed by HTMLPlugin.
+************** Import Finished **************
+12 documents were considered for processing:
+    12 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Date;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

@@ -1,0 +1,788 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH6a82.dir\doc.xml"  gs2:docOID="HASH6a820713d29c07a38a3345" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH6a820713d29c07a38a3345" gs2:mode="add">
+
+
+
+
+
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH6a820713d29c07a38a3345.1" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:monospace; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:117px; top:78px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Лабораториска вежба 6 &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;- &lt;/span&gt;&lt;span class=&quot;p1f6&quot; style=&quot;font-size:18px;vertical-align:baseline;color:rgba(32,36,41,1);&quot;&gt;Squirrel eats squirrels&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:218px; top:112px;&quot;&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Студент: Викторија Мијалчева 1810&lt;/span&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;70&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:157px;&quot;&gt;&lt;span class=&quot;p1f16&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;1. Increase the camera area of the game to 960x480 pixels (1 point).&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:186px;&quot;&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;За да се постигне ова потребна е следната промена:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:208px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;WINWIDTH = &lt;/span&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;960 &lt;/span&gt;&lt;span class=&quot;p1f29&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# width of the program's window, in pixels CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:242px;&quot;&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Изгледот на екранот по направената промена е следен:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:548px;&quot;&gt;&lt;span class=&quot;p1f16&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;2. Define two new constants for the CAMERASLACK constants for the&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:569px;&quot;&gt;&lt;span class=&quot;p1f16&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;horizontal and vertical direction appropriately (1 point).&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:597px;&quot;&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дефинирање на двете константи:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:620px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;CAMERASLACK_X = &lt;/span&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;90 &lt;/span&gt;&lt;span class=&quot;p1f29&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:631px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;CAMERASLACK_Y = &lt;/span&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;90 &lt;/span&gt;&lt;span class=&quot;p1f29&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:665px;&quot;&gt;&lt;span class=&quot;p1f10&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Нивно интегрирање во кодот:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:687px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;(camerax + HALF_WINWIDTH) - playerCenterx &amp;gt; CAMERASLACK_X: &lt;/span&gt;&lt;span class=&quot;p1f29&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:699px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;camerax = playerCenterx + CAMERASLACK - HALF_WINWIDTH&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:710px;&quot;&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;elif &lt;/span&gt;&lt;span class=&quot;p1f26&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;playerCenterx - (camerax + HALF_WINWIDTH) &amp;gt; CAMERASLACK_X: &lt;/span&gt;&lt;span class=&quot;p1f29&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH6a820713d29c07a38a3345.2" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f63 { font-family:monospace; font-weight:normal; font-style:normal; }
+
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f101 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f102 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f103 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f104 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f105 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f106 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f107 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f108 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f109 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f110 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f111 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f112 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f113 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f114 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f115 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f116 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f117 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:74px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;camerax = playerCenterx - CAMERASLACK - HALF_WINWIDTH&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:85px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;(cameray + HALF_WINHEIGHT) - playerCentery &amp;gt; CAMERASLACK_Y: &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:97px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;cameray = playerCentery + CAMERASLACK - HALF_WINHEIGHT&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:108px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;elif &lt;/span&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;playerCentery - (cameray + HALF_WINHEIGHT) &amp;gt; CAMERASLACK_Y: &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:119px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;cameray = playerCentery - CAMERASLACK - HALF_WINHEIGHT&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:153px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Изгледот на екран по направената промена нема одредена знајачност – тој е ист. Единствената&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:167px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;промена е во кодот.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:217px;&quot;&gt;&lt;span class=&quot;p2f61&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;3. Introduce the possibility an enemy squirrels to bounce downwards&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:238px;&quot;&gt;&lt;span class=&quot;p2f61&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;(the squirrel could bounce only in one direction only upwards or&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:259px;&quot;&gt;&lt;span class=&quot;p2f61&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;only downwards). The direction is determined when creating an&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:280px;&quot;&gt;&lt;span class=&quot;p2f61&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;enemy squirrel. (3 points)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:323px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Единствената промена која е потребна да се направи е при креирањето на нова верверичка&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:338px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;непријател. Потребно е &lt;/span&gt;&lt;span class=&quot;p2f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;bounceheight &lt;/span&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;да се промени во:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:360px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;sq[&lt;/span&gt;&lt;span class=&quot;p2f86&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'bounceheight'&lt;/span&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;] = random.randint(-70, &lt;/span&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;80) &lt;/span&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:394px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во овој случај со веројатност 0.8 (веројатноста ја поставив висока за да биде &lt;/span&gt;&lt;span class=&quot;p2f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;bounce rate &lt;/span&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на надолу&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:409px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;повидливо) ново креираните верверички ќе скокаат на надолу и тоа со скок од &lt;/span&gt;&lt;span class=&quot;p2f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-70.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:431px;&quot;&gt;&lt;span class=&quot;p2f50&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Изгледот на екранот по направената промена е следниот:&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div id=&quot;page3&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH6a820713d29c07a38a3345.3" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p3f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f19 { font-family:monospace; font-weight:normal; font-style:normal; }
+
+.p3f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f97 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f98 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f99 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p3f100 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background3&quot; src=&quot;_httpdocimg_/page3.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:74px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Од 3 ново креирани верверички, &lt;/span&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3 &lt;/span&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;од нив се со поголем скок на надолу. Ова подобро би било&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:88px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;видливо при видео.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:90px; top:138px;&quot;&gt;&lt;span class=&quot;p3f17&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;4. Change the logic of the game. If the squirrel is hit by the larger&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:159px;&quot;&gt;&lt;span class=&quot;p3f17&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;animal it becomes smaller using the same logic as for the getting&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:180px;&quot;&gt;&lt;span class=&quot;p3f17&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;bigger at the current game. The game is over when the squirrel&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:108px; top:201px;&quot;&gt;&lt;span class=&quot;p3f17&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(46,83,149,1);&quot;&gt;grows to the WINSIZE or LOSTSIZE (5).&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:244px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Потребната промена е само кога верверичката не е во &lt;/span&gt;&lt;span class=&quot;p3f4&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;invulnerableMode:&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:266px;&quot;&gt;&lt;span class=&quot;p3f34&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# player is smaller and takes damage&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:278px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;invulnerableMode = &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;True&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:289px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;invulnerableStartTime = time.time()&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:300px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;playerObj[&lt;/span&gt;&lt;span class=&quot;p3f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'health'&lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;] -= &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;1&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:312px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;playerObj[&lt;/span&gt;&lt;span class=&quot;p3f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'size'&lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;] -= (int((sqObj[&lt;/span&gt;&lt;span class=&quot;p3f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'width'&lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;] * sqObj[&lt;/span&gt;&lt;span class=&quot;p3f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'height'&lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;]) ** &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;0.2) &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;+ &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(22,80,235,1);&quot;&gt;1) &lt;/span&gt;&lt;span class=&quot;p3f34&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;#&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:323px;&quot;&gt;&lt;span class=&quot;p3f34&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:334px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;playerObj[&lt;/span&gt;&lt;span class=&quot;p3f48&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,128,128,1);&quot;&gt;'size'&lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;] == WINSIZE: &lt;/span&gt;&lt;span class=&quot;p3f34&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# CHANGE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:346px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;gameOverMode = &lt;/span&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(0,50,179,1);&quot;&gt;True &lt;/span&gt;&lt;span class=&quot;p3f34&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(139,139,139,1);&quot;&gt;# turn on &amp;quot;game over mode&amp;quot;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:96px; top:357px;&quot;&gt;&lt;span class=&quot;p3f38&quot; style=&quot;font-size:7px;vertical-align:baseline;color:rgba(8,8,8,1);&quot;&gt;gameOverStartTime = time.time()&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:391px;&quot;&gt;&lt;span class=&quot;p3f1&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;За да се види оваа промена на екран потребно е снимање на видео.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>
